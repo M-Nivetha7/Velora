@@ -1,6 +1,8 @@
-# Velora
-
-
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=VoiceShield" alt="VoiceShield animated title" />
+  </a>
+</p>
 
 
 **Velora** is an AI-powered safety app that predicts rising danger before it happens. Using phone sensors and behavioral analysis, it monitors subtle movement patterns and location context to provide early warnings, gentle alerts, and trusted contact notifications—all while keeping your data private and secure.
