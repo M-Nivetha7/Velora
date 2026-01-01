@@ -62,12 +62,23 @@ npm install
 # Install backend dependencies
 cd ../backend
 npm install
+```
+
+---
+
 
 # Run the app (frontend & backend separately)
-npm start # for frontend
-npm run dev # for backend
-🌟 Screenshots & Cute Animations
+## **Setup & Run**
+
+### **1. Frontend**
+If you haven’t created the frontend yet:
+```bash
+npx create-react-app frontend
+cd frontend
+npm install react-router-dom
+npm start
 ```
+---
 
 Interactive Dashboard
 
