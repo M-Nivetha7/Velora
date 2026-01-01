@@ -1,0 +1,41 @@
+body {
+  background: linear-gradient(120deg, #0f0c29, #302b63, #24243e);
+  font-family: sans-serif;
+  overflow: hidden;
+}
+
+.auth-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background: rgba(255,255,255,0.1);
+  backdrop-filter: blur(10px);
+  padding: 40px;
+  border-radius: 16px;
+  color: white;
+  z-index: 1;
+}
+
+.card input, .card button {
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.bubbles li {
+  position: absolute;
+  list-style: none;
+  width: 40px;
+  height: 40px;
+  background: rgba(255,255,255,0.2);
+  animation: float 20s infinite;
+}
+
+@keyframes float {
+  from { transform: translateY(100vh); }
+  to { transform: translateY(-100vh); }
+}
