@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=VoiceShield" alt="VoiceShield animated title" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF66CC&center=true&vCenter=true&width=600&lines=VELORA" alt="Velora animated title" />
   </a>
 </p>
 
