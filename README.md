@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/…/velora-title.gif" alt="🌸 Velora 🌸" />
-</p>
+# Velora
 
 
 
@@ -103,5 +101,3 @@ yaml
 Copy code
 
 
-# AuraGuard
-# Velora
