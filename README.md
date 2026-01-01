@@ -110,7 +110,4 @@ If you like Velora, give it a ⭐ and share it with your friends!
 ⚠️ Disclaimer
 Velora is designed to assist in personal safety, but cannot guarantee protection in all scenarios. Always stay aware of your surroundings.
 
-yaml
-Copy code
-
 
